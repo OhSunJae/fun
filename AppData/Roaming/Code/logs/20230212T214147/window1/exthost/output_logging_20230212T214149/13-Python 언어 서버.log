@@ -1,0 +1,19 @@
+[Info  - 오후 9:42:10] (1432) Pylance language server 2023.2.20 (pyright cca7588f) starting
+[Info  - 오후 9:42:10] (1432) Server root directory: c:\Users\OSJ\.vscode\extensions\ms-python.vscode-pylance-2023.2.20\dist
+[Info  - 오후 9:42:10] (1432) Starting service instance "<default>"
+[Info  - 오후 9:42:10] (1432) No pyproject.toml file found.
+[Info  - 오후 9:42:10] (1432) Setting pythonPath for service "<default>": "C:\Users\OSJ\AppData\Local\Microsoft\WindowsApps\python3.10.exe"
+[Warn  - 오후 9:42:10] (1432) stubPath typings is not a valid directory.
+[Info  - 오후 9:42:10] (1432) Assuming Python version 3.10
+[Info  - 오후 9:42:10] (1432) Assuming Python platform Windows
+[Info  - 오후 9:42:11] (1432) Searching for source files
+[Info  - 오후 9:42:11] (1432) No source files found.
+[Info  - 오후 9:42:11] (1432) No pyproject.toml file found.
+[Info  - 오후 9:42:11] (1432) Setting pythonPath for service "<default>": "C:\Users\OSJ\AppData\Local\Microsoft\WindowsApps\python3.10.exe"
+[Warn  - 오후 9:42:11] (1432) stubPath typings is not a valid directory.
+[Info  - 오후 9:42:11] (1432) Assuming Python version 3.10
+[Info  - 오후 9:42:11] (1432) Assuming Python platform Windows
+[Info  - 오후 9:42:11] (1432) Searching for source files
+[Info  - 오후 9:42:11] (1432) No source files found.
+[Info  - 오후 9:42:11] (1432) Background analysis(1) root directory: c:\Users\OSJ\.vscode\extensions\ms-python.vscode-pylance-2023.2.20\dist
+[Info  - 오후 9:42:11] (1432) Background analysis(1) started

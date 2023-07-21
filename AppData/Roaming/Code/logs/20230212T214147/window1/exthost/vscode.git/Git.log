@@ -1,0 +1,8 @@
+2023-02-12 21:41:51.087 [info] 로그 수준: Info
+2023-02-12 21:41:51.087 [info] "C:\Program Files\Git\cmd\git.exe"에서 찾은 git 유효성을 검사하는 중
+2023-02-12 21:41:51.087 [info] "C:\Program Files (x86)\Git\cmd\git.exe"에서 찾은 git 유효성을 검사하는 중
+2023-02-12 21:41:51.087 [info] "C:\Program Files\Git\cmd\git.exe"에서 찾은 git 유효성을 검사하는 중
+2023-02-12 21:41:51.087 [info] "C:\Users\OSJ\AppData\Local\Programs\Git\cmd\git.exe"에서 찾은 git 유효성을 검사하는 중
+2023-02-12 21:41:51.158 [info] "2.38.1.windows.1"에서 git "C:\Users\OSJ\AppData\Local\Programs\Git\cmd\git.exe"을(를) 사용하는 중
+2023-02-12 21:41:51.551 [info] > git rev-parse --show-toplevel [387ms]
+2023-02-12 21:42:09.163 [info] > git rev-parse --show-toplevel [1405ms]

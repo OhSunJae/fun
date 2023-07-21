@@ -1,0 +1,17 @@
+2023-02-12 21:41:48.378 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'commentsResolvedState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-02-12 21:41:49.148 [warning] [redhat.java]: 'java.home'을(를) 등록할 수 없습니다. 이 속성은 이미 등록되어 있습니다.
+2023-02-12 21:41:49.149 [warning] [redhat.java]: 'java.trace.server'을(를) 등록할 수 없습니다. 이 속성은 이미 등록되어 있습니다.
+2023-02-12 21:41:49.149 [warning] [twxs.cmake]: 'cmake.cmakePath'을(를) 등록할 수 없습니다. 이 속성은 이미 등록되어 있습니다.
+2023-02-12 21:41:49.165 [error] [tht13.python]: 확장에 위치한 스키마를 참조하기 위해 'configuration.jsonValidation.url'은 절대 URL이거나 './'로 시작해야 합니다.
+2023-02-12 21:41:49.187 [info] [YouMayCallMeV.vscode-java-saber]: 메뉴 항목이 동일한 명령을 기본값과 alt 명령으로 참조합니다.
+2023-02-12 21:41:49.187 [info] [YouMayCallMeV.vscode-java-saber]: 메뉴 항목이 동일한 명령을 기본값과 alt 명령으로 참조합니다.
+2023-02-12 21:41:49.187 [info] [YouMayCallMeV.vscode-java-saber]: 메뉴 항목이 동일한 명령을 기본값과 alt 명령으로 참조합니다.
+2023-02-12 21:41:49.187 [info] [YouMayCallMeV.vscode-java-saber]: 메뉴 항목이 동일한 명령을 기본값과 alt 명령으로 참조합니다.
+2023-02-12 21:41:49.187 [info] [YouMayCallMeV.vscode-java-saber]: 메뉴 항목이 동일한 명령을 기본값과 alt 명령으로 참조합니다.
+2023-02-12 21:41:49.187 [info] [YouMayCallMeV.vscode-java-saber]: 메뉴 항목이 동일한 명령을 기본값과 alt 명령으로 참조합니다.
+2023-02-12 21:41:51.224 [error] [Extension Host] (node:12920) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+2023-02-12 21:41:51.375 [info] [perf] Render performance baseline is 26ms
+2023-02-12 21:42:09.921 [error] [Extension Host] Lintings failed on open
+2023-02-12 21:42:09.921 [error] [Extension Host] File: file:///c%3A/Users/OSJ/Desktop/crawler.py
+2023-02-12 21:42:09.921 [error] [Extension Host] Message: TypeError: Cannot read properties of undefined (reading 'uri')

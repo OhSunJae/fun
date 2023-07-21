@@ -1,0 +1,699 @@
+{
+  "appInfo" : {
+    "build" : "223.8617.48",
+    "buildDate" : "2023-01-24T13:40:29.326Z[UTC]",
+    "productCode" : "PY",
+    "generated" : "2023-02-12T12:50:56.0853738Z",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o. 17.0.5 17.0.5+1-b653.25"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2111832064,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "crawler.py",
+    "times" : {
+      "indexingReason" : "On project open",
+      "scanningType" : "FULL_ON_PROJECT_OPEN",
+      "totalUpdatingTime" : 21916948300,
+      "indexingTime" : 1291998800,
+      "contentLoadingVisibleTime" : 9958246,
+      "creatingIteratorsTime" : 8000600,
+      "scanFilesTime" : 20421075900,
+      "pushPropertiesTime" : 0,
+      "indexExtensionsTime" : 0,
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 1191898687,
+      "updatingStart" : "2023-02-12T12:50:34.165372Z",
+      "updatingEnd" : "2023-02-12T12:50:56.0823719Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 32,
+      "numberOfScannedFiles" : 611133,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 172,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 143
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "JSON",
+      "partOfTotalProcessingTime" : {
+        "part" : 7728727800,
+        "total" : 14049872100
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 72475100,
+        "total" : 109069600
+      },
+      "totalNumberOfFiles" : 94,
+      "totalFilesSize" : 507572,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 507572,
+        "totalTime" : 7728727800
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'OSJ' (OSJ)",
+        "numberOfFiles" : 94,
+        "totalFilesSize" : 507572,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 7728727800,
+          "total" : 7728727800
+        }
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 4342741100,
+        "total" : 14049872100
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 15562000,
+        "total" : 109069600
+      },
+      "totalNumberOfFiles" : 18,
+      "totalFilesSize" : 947818,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 947818,
+        "totalTime" : 4342741100
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'OSJ' (OSJ)",
+        "numberOfFiles" : 18,
+        "totalFilesSize" : 947818,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 4342741100,
+          "total" : 4342741100
+        }
+      } ]
+    }, {
+      "fileType" : "JavaScript",
+      "partOfTotalProcessingTime" : {
+        "part" : 1139853700,
+        "total" : 14049872100
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 137300,
+        "total" : 109069600
+      },
+      "totalNumberOfFiles" : 5,
+      "totalFilesSize" : 19914238,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 19914238,
+        "totalTime" : 1139853700
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'OSJ' (OSJ)",
+        "numberOfFiles" : 5,
+        "totalFilesSize" : 19914238,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1139853700,
+          "total" : 1139853700
+        }
+      } ]
+    }, {
+      "fileType" : "textmate",
+      "partOfTotalProcessingTime" : {
+        "part" : 340764200,
+        "total" : 14049872100
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1491100,
+        "total" : 109069600
+      },
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : 761,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 761,
+        "totalTime" : 340764200
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'OSJ' (OSJ)",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : 761,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 340764200,
+          "total" : 340764200
+        }
+      } ]
+    }, {
+      "fileType" : "AUTO_DETECTED",
+      "partOfTotalProcessingTime" : {
+        "part" : 312841500,
+        "total" : 14049872100
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1299300,
+        "total" : 109069600
+      },
+      "totalNumberOfFiles" : 6,
+      "totalFilesSize" : 0,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 0,
+        "totalTime" : 312841500
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'OSJ' (OSJ)",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : 0,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 312841500,
+          "total" : 312841500
+        }
+      } ]
+    }, {
+      "fileType" : "UNKNOWN",
+      "partOfTotalProcessingTime" : {
+        "part" : 184943800,
+        "total" : 14049872100
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 18104800,
+        "total" : 109069600
+      },
+      "totalNumberOfFiles" : 17,
+      "totalFilesSize" : 2689718,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 2689718,
+        "totalTime" : 184943800
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'OSJ' (OSJ)",
+        "numberOfFiles" : 17,
+        "totalFilesSize" : 2689718,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 184943800,
+          "total" : 184943800
+        }
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 402380100,
+        "total" : 682055200
+      },
+      "totalNumberOfFiles" : 130,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 3648247,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 3648247,
+        "totalTime" : 402380100
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 209938000,
+        "total" : 682055200
+      },
+      "totalNumberOfFiles" : 118,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1476776,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1476776,
+        "totalTime" : 209938000
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "json.file.root.values",
+      "partOfTotalIndexingTime" : {
+        "part" : 35996700,
+        "total" : 682055200
+      },
+      "totalNumberOfFiles" : 94,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 507572,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 507572,
+        "totalTime" : 35996700
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "FrameworkDetectionIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 33740400,
+        "total" : 682055200
+      },
+      "totalNumberOfFiles" : 94,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 507572,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 507572,
+        "totalTime" : 33740400
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "Module 'OSJ' (OSJ)",
+      "numberOfScannedFiles" : 600391,
+      "numberOfSkippedFiles" : 4033,
+      "numberOfFilesForIndexing" : 172,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 14440080600,
+      "scanningTime" : 15942322800,
+      "timeProcessingUpToDateFiles" : 3029972200,
+      "timeUpdatingContentLessIndexes" : 420901200,
+      "timeIndexingWithoutContent" : 3497500,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Python SDK Python 3.10 C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.10_3.10.2800.0_x64__qbz5n2kfra8p0/DLLs, C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.10_3.10.2800.0_x64__qbz5n2kfra8p0/Lib, C:/Users/OSJ/AppData/Local/Microsoft/WindowsApps/PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0, C:/Users/OSJ/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0/LocalCache/local-packages/Python310/site-packages, C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.10_3.10.2800.0_x64__qbz5n2kfra8p0, C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.10_3.10.2800.0_x64__qbz5n2kfra8p0/Lib/site-packages, C:/Users/OSJ/AppData/Local/JetBrains/PyCharm2022.3/python_stubs/-1301675899, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/python-skeletons, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stdlib, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/six, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/boto, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/mock, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/pytz, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/toml, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/annoy, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/babel, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/emoji, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/first, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/fpdf2, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/ldap3, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/polib, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/redis, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/regex, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/retry, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/ujson, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/bleach, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/caldav, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/docopt, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/hdbcli, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/invoke, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/passpy, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/Pillow, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/psutil, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/pycurl, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/pynput, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/pysftp, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/PyYAML, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/stripe, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/xxhash, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/appdirs, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/certifi, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/chardet, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/chevron, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/passlib, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/pyaudio, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/PyMySQL, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/pyvmomi, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/slumber, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/tzlocal, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/urllib3, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/vobject, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/aiofiles, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/colorama, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/croniter, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/docutils, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/filelock, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/html5lib, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/httplib2, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/jmespath, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/Markdown, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/oauthlib, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/openpyxl, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/paramiko, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/psycopg2, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/pyflakes, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/Pygments, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/requests, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/selenium, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/tabulate, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/toposort, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/waitress, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/braintree, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/decorator, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/freezegun, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/playsound, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/pyOpenSSL, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/pyRFC3339, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/termcolor, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/ttkthemes, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/typed-ast, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/xmltodict, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/cachetools, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/commonmark, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/dateparser, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/Deprecated, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/Flask-Cors, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/frozendict, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/jsonschema, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/pyfarmhash, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/Send2Trash, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/setuptools, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/simplejson, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/SQLAlchemy, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/contextvars, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/dataclasses, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/entrypoints, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/flake8-2020, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/JACK-Client, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/mysqlclient, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/opentracing, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/pep8-naming, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/prettytable, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/python-jose, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/python-nmap, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/stdlib-list, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/atomicwrites, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/aws-xray-sdk, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/cryptography, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/editdistance, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/parsimonious, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/whatthepatch, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/click-spinner, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/DateTimeRange, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/humanfriendly, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/python-gflags, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/beautifulsoup4, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/characteristic, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/flake8-bugbear, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/python-slugify, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/singledispatch, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/flake8-builtins, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/flake8-simplify, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/mypy-extensions, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/python-dateutil, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/Flask-SQLAlchemy, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/flake8-docstrings, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/flake8-plugin-utils, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/pytest-lazy-fixture, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/flake8-rst-docstrings, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/flake8-typing-imports, C:/Program Files/JetBrains/PyCharm 2022.3.2/plugins/python/helpers/typeshed/stubs/backports.ssl_match_hostname",
+      "numberOfScannedFiles" : 10151,
+      "numberOfSkippedFiles" : 3,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 1314851600,
+      "scanningTime" : 1334169000,
+      "timeProcessingUpToDateFiles" : 196870000,
+      "timeUpdatingContentLessIndexes" : 28190100,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "node_modules: file://C:/Users/OSJ/.vscode/extensions/.0c990f96-66f0-4a43-b8a2-ed5ffe1342a2/out/client/node_modules",
+      "numberOfScannedFiles" : 10,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 540319300,
+      "scanningTime" : 552584500,
+      "timeProcessingUpToDateFiles" : 813500,
+      "timeUpdatingContentLessIndexes" : 85100,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "node_modules: file://C:/Users/OSJ/.vscode/extensions/donjayamanne.python-environment-manager-1.0.4/out/client/node_modules",
+      "numberOfScannedFiles" : 10,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 540099900,
+      "scanningTime" : 552328400,
+      "timeProcessingUpToDateFiles" : 899400,
+      "timeUpdatingContentLessIndexes" : 104700,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "node_modules: file://C:/Users/OSJ/.vscode/extensions/ms-python.python-2023.2.0/out/client/node_modules",
+      "numberOfScannedFiles" : 10,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 480396700,
+      "scanningTime" : 492582500,
+      "timeProcessingUpToDateFiles" : 935000,
+      "timeUpdatingContentLessIndexes" : 116900,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@577002e6' (non-project)",
+      "numberOfScannedFiles" : 215,
+      "numberOfSkippedFiles" : 4,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 453426700,
+      "scanningTime" : 455266200,
+      "timeProcessingUpToDateFiles" : 9518500,
+      "timeUpdatingContentLessIndexes" : 1381200,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.lang.puppet.psi.resolve.PuppetIndexableSetContributor@31e0ef6c' (non-project)",
+      "numberOfScannedFiles" : 3,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 413680600,
+      "scanningTime" : 413749900,
+      "timeProcessingUpToDateFiles" : 315400,
+      "timeUpdatingContentLessIndexes" : 31000,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "node_modules: file://C:/Users/OSJ/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.30/node_modules",
+      "numberOfScannedFiles" : 4,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 319351600,
+      "scanningTime" : 331629500,
+      "timeProcessingUpToDateFiles" : 576700,
+      "timeUpdatingContentLessIndexes" : 62100,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "node_modules: file://C:/Users/OSJ/.vscode/extensions/georgewfraser.vscode-javac-0.2.45/node_modules",
+      "numberOfScannedFiles" : 80,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 246282300,
+      "scanningTime" : 248442900,
+      "timeProcessingUpToDateFiles" : 16451900,
+      "timeUpdatingContentLessIndexes" : 1397600,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "node_modules: file://C:/Users/OSJ/.vscode/extensions/tht13.python-0.2.3/out/server/node_modules",
+      "numberOfScannedFiles" : 7,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 157030900,
+      "scanningTime" : 169096600,
+      "timeProcessingUpToDateFiles" : 1183500,
+      "timeUpdatingContentLessIndexes" : 110300,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "node_modules: file://C:/Users/OSJ/.vscode/extensions/youmaycallmev.vscode-java-saber-0.1.2/node_modules",
+      "numberOfScannedFiles" : 6,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 149182800,
+      "scanningTime" : 161275200,
+      "timeProcessingUpToDateFiles" : 1025600,
+      "timeUpdatingContentLessIndexes" : 95600,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "node_modules: file://C:/Users/OSJ/.vscode/extensions/batisteo.vscode-django-1.10.0/node_modules",
+      "numberOfScannedFiles" : 3,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 157897700,
+      "scanningTime" : 157931200,
+      "timeProcessingUpToDateFiles" : 4618200,
+      "timeUpdatingContentLessIndexes" : 97900,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "node_modules: file://C:/Users/OSJ/.vscode/extensions/twxs.cmake-0.0.17/node_modules",
+      "numberOfScannedFiles" : 2,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 145783200,
+      "scanningTime" : 157852800,
+      "timeProcessingUpToDateFiles" : 347300,
+      "timeUpdatingContentLessIndexes" : 35200,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "node_modules: file://C:/Users/OSJ/.vscode/extensions/tht13.python-0.2.3/node_modules",
+      "numberOfScannedFiles" : 25,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 140178800,
+      "scanningTime" : 140477300,
+      "timeProcessingUpToDateFiles" : 8642300,
+      "timeUpdatingContentLessIndexes" : 344000,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "node_modules: file://C:/Users/OSJ/.vscode/extensions/cschlosser.doxdocgen-1.4.0/node_modules",
+      "numberOfScannedFiles" : 104,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 75707700,
+      "scanningTime" : 76148500,
+      "timeProcessingUpToDateFiles" : 13475200,
+      "timeUpdatingContentLessIndexes" : 1112000,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'JS required libraries' (project)",
+      "numberOfScannedFiles" : 53,
+      "numberOfSkippedFiles" : 29,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 47542800,
+      "scanningTime" : 47695300,
+      "timeProcessingUpToDateFiles" : 18888600,
+      "timeUpdatingContentLessIndexes" : 870200,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "node_modules: file://C:/Users/OSJ/.vscode/extensions/kevinrose.vsc-python-indent-1.18.0/node_modules",
+      "numberOfScannedFiles" : 1,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 41853900,
+      "scanningTime" : 41858500,
+      "timeProcessingUpToDateFiles" : 4455900,
+      "timeUpdatingContentLessIndexes" : 24500,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'TypeScript bundled libraries' (project)",
+      "numberOfScannedFiles" : 28,
+      "numberOfSkippedFiles" : 44,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 27940100,
+      "scanningTime" : 28019500,
+      "timeProcessingUpToDateFiles" : 20286400,
+      "timeUpdatingContentLessIndexes" : 249200,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'JS required libraries' (non-project)",
+      "numberOfScannedFiles" : 12,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 17203900,
+      "scanningTime" : 17238400,
+      "timeProcessingUpToDateFiles" : 13232200,
+      "timeUpdatingContentLessIndexes" : 117200,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'org.jetbrains.plugins.scss.index.SassScssIndexedRootProvider@5ad06250' (non-project)",
+      "numberOfScannedFiles" : 8,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 16628400,
+      "scanningTime" : 16652100,
+      "timeProcessingUpToDateFiles" : 1971600,
+      "timeUpdatingContentLessIndexes" : 107300,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "node_modules: file://C:/Users/OSJ/.vscode/extensions/njpwerner.autodocstring-0.6.1/node_modules",
+      "numberOfScannedFiles" : 8,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 5449900,
+      "scanningTime" : 5605700,
+      "timeProcessingUpToDateFiles" : 2133300,
+      "timeUpdatingContentLessIndexes" : 116300,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.httpClient.http.request.HttpRequestCollectionProvider@6129e271' (non-project)",
+      "numberOfScannedFiles" : 2,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 563100,
+      "scanningTime" : 612300,
+      "timeProcessingUpToDateFiles" : 186200,
+      "timeUpdatingContentLessIndexes" : 20300,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "com.intellij.openapi.roots.ImmutableSyntheticLibrary@acc0c5",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 123200,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "node_modules: file://C:/Users/OSJ/.vscode/extensions/esbenp.prettier-vscode-9.10.4/node_modules",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "node_modules: file://C:/Users/OSJ/.vscode/extensions/ms-python.python-2022.20.2/out/client/node_modules",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (non-project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@577002e6' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.lang.puppet.psi.resolve.PuppetIndexableSetContributor@31e0ef6c' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'org.jetbrains.plugins.scss.index.SassScssIndexedRootProvider@5ad06250' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.httpClient.http.request.HttpRequestCollectionProvider@6129e271' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'TypeScript bundled libraries' (non-project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'OSJ' (OSJ)",
+      "totalNumberOfIndexedFiles" : 143,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 1282778000,
+      "contentLoadingVisibleTime" : 9958246,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 1191898687
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.09130175640531275
+  }
+}

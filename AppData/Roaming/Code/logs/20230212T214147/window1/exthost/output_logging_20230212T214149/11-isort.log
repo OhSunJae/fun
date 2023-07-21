@@ -1,0 +1,29 @@
+Name: isort
+Module: isort
+Python extension loading
+Waiting for interpreter from python extension.
+Python extension loaded
+CWD Server: c:\Users\OSJ\AppData\Local\Programs\Microsoft VS Code
+sys.path used to run Server:
+   c:\Users\OSJ\.vscode\extensions\ms-python.isort-2022.8.0\bundled\libs
+   c:\Users\OSJ\.vscode\extensions\ms-python.isort-2022.8.0\bundled\tool
+   c:\Users\OSJ\AppData\Local\Programs\Python\Python310\python310.zip
+   c:\Users\OSJ\AppData\Local\Programs\Python\Python310\DLLs
+   c:\Users\OSJ\AppData\Local\Programs\Python\Python310\lib
+   c:\Users\OSJ\AppData\Local\Programs\Python\Python310
+   C:\Users\OSJ\AppData\Roaming\Python\Python310\site-packages
+   C:\Users\OSJ\AppData\Roaming\Python\Python310\site-packages\win32
+   C:\Users\OSJ\AppData\Roaming\Python\Python310\site-packages\win32\lib
+   C:\Users\OSJ\AppData\Roaming\Python\Python310\site-packages\Pythonwin
+   c:\Users\OSJ\AppData\Local\Programs\Python\Python310\lib\site-packages
+Settings used to run Server:
+[]
+
+c:\Users\OSJ\AppData\Local\Programs\Python\Python310\python.exe -m isort --version-number
+CWD Linter: c:\Users\OSJ\AppData\Local\Programs\Microsoft VS Code
+Version info for isort running for c:\Users\OSJ\AppData\Local\Programs\Microsoft VS Code:
+5.10.1
+
+SUPPORTED isort>=5.10.1
+FOUND isort==5.10.1
+
