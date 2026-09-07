@@ -1,0 +1,17 @@
+We are looking for a Junior AI Engineer.
+
+Requirements:
+- Strong Python programming skills
+- Experience with SQL
+- Familiarity with FastAPI
+- Knowledge of Docker
+- Understanding of Linux
+- Experience with Git
+- Basic knowledge of AWS
+
+Responsibilities:
+- Develop AI applications using Python
+- Build REST APIs with FastAPI
+- Work with databases using SQL
+- Deploy applications using Docker
+- Collaborate through Git
